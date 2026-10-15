@@ -1,0 +1,25 @@
+{
+  "nda": "75331187133",
+  "name": "GRADES ESEA NOUVELLE-AQUITAINE",
+  "siret": "13002347600018",
+  "address": {
+    "postalCode": "33000",
+    "city": "BORDEAUX",
+    "department": "33"
+  },
+  "qualiopi": {
+    "training": true,
+    "skillsAssessment": false,
+    "vae": false,
+    "apprenticeship": false,
+    "certified": true
+  },
+  "specialties": [
+    {
+      "code": "331",
+      "label": "Santé"
+    }
+  ],
+  "trainees": 44751,
+  "trainers": 31
+}
